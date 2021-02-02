@@ -7,7 +7,7 @@ int main()
     for(i = 0;a[i]==b[i] && a[i]!=0 && b[i]!=0; i++);
     if(a[i]>b[i])
     {
-        printf("The string is equal");
+        printf("The  first string is greater");
     }
     else if(a[i]< b[i])
     {
